@@ -1,4 +1,4 @@
- ## Hi, I’m David 👋, I’m a Software Developer
+ ## Hi there, I’m David 👋
  
 - 🔭 I’m currently working on JAMstack content!
 - 👀 I’m always available to hang out with friends, meet new people, and play some video games <img src="https://icons.iconarchive.com/icons/google/noto-emoji-activities/1024/52761-video-game-icon.png" width="50px" align="center"/>
