@@ -5,8 +5,10 @@
 - 🌱 I’m currently learning Strapi, Tina, and Netlify CMS, also checking out Google Services
 - 😄 Pronouns: he/him
 - 💞️ I’m an honest, proactive and competitive person with a desire to grow and advance my career in software engineering
-- ⚡ Fun fact: I like to do aggressive skating (inline roller skating<img alt="inline-roller-skate-image" align="center" width="50px" src="https://i.pinimg.com/originals/6d/0f/9a/6d0f9a3c25e2d338f82c61cf4ab4d437.jpg"/>)
+- ⚡ Fun fact: I like to play aggressive skating (inline roller skating<img alt="inline-roller-skate-image" align="center" width="50px" src="https://i.pinimg.com/originals/6d/0f/9a/6d0f9a3c25e2d338f82c61cf4ab4d437.jpg"/>)
 - 📫 Reach me via [<img width="25px" align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>](https://www.linkedin.com/in/david-de-la-rosa-ruiz/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Rosa99&layout=compact&theme=tokyonight)](https://github.com/D-Rosa99/github-readme-stats)          [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Rosa99&show_icons=true&theme=merko)](https://github.com/D-Rosa99/github-readme-stats)
 
 
 <!---
